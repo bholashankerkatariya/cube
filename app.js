@@ -60,7 +60,6 @@ document.querySelector('.right-arrow').addEventListener('click', () => {
     }
 });
 
-
 document.querySelector('.right-arrow').addEventListener('mouseover', () => {
     x -= 25;
     rotate();
@@ -74,44 +73,3 @@ document.querySelector('.right-arrow').addEventListener('mouseout', () => {
 document.querySelector('.play-pause').addEventListener('click', () => {
     playPause();
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
